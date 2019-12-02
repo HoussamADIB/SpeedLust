@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FinishLine\FinishLine.cs">
+    <Files>
+      <File FileName="Assets\Car\Car.cs" Line="1" Column="1" />
+      <File FileName="Assets\Obstacle\Obstacle.cs" Line="21" Column="24" />
+      <File FileName="Assets\Main\Main.cs" Line="37" Column="62" />
+      <File FileName="Assets\Camera\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\FinishLine\FinishLine.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

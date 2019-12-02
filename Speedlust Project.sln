@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speedlust Project", "Speedlust Project.csproj", "{68105881-EFCE-8D07-22C0-7090D479BC56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speedlust Project.Plugins", "Speedlust Project.Plugins.csproj", "{83A6B2FB-854C-B599-FE45-8C13D0D1563C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speedlust Project.Editor", "Speedlust Project.Editor.csproj", "{347809CE-6266-D149-1295-5277BC5FECB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68105881-EFCE-8D07-22C0-7090D479BC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68105881-EFCE-8D07-22C0-7090D479BC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68105881-EFCE-8D07-22C0-7090D479BC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68105881-EFCE-8D07-22C0-7090D479BC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A6B2FB-854C-B599-FE45-8C13D0D1563C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A6B2FB-854C-B599-FE45-8C13D0D1563C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A6B2FB-854C-B599-FE45-8C13D0D1563C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A6B2FB-854C-B599-FE45-8C13D0D1563C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347809CE-6266-D149-1295-5277BC5FECB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347809CE-6266-D149-1295-5277BC5FECB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347809CE-6266-D149-1295-5277BC5FECB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347809CE-6266-D149-1295-5277BC5FECB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
