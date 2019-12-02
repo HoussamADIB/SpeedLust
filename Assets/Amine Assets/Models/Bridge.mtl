@@ -1,0 +1,54 @@
+newmtl Bridgepart3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.14902 0.14902 0.14902 
+
+d 1
+
+Ns 22
+
+map_Ka Bridgepart3Tex.png
+map_Kd Bridgepart3Tex.png
+map_d Bridgepart3Tex.png
+
+newmtl Bridgepart8Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.112511 0.102752 0.110026 
+
+d 1
+
+Ns 160
+
+newmtl Bridgepart4Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.055676 0.0549273 0.05719 
+
+d 1
+
+Ns 22
+
+newmtl Bridgepart2Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0185889 0.0169765 0.0181783 
+
+d 1
+
+Ns 22
+
+newmtl Bridgepart1Mtl
+Material Color
+Ka 1 0.442323 0
+Kd 1 0.442323 0
+Ks 0.14902 0.0659148 0 
+
+d 1
+
+Ns 22
+
